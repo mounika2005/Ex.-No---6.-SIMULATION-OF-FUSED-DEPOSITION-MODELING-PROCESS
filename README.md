@@ -8,6 +8,7 @@
 ### System - Windows 7 or higher, 1 GB RAM.
 
 
+
 ## PROCEDURE:
 ### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
 ### STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
